@@ -66,7 +66,7 @@ Some of the questions answered using SQL were:
 Task-03-SQL-Data-Analysis/
 │
 ├── README.md
-├── task3_sql_analysis_beginner.sql
+├── task3_sql_analysis.sql
 │
 └── Screenshots/
     ├── 01_view_all_orders.png
